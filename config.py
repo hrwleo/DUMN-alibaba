@@ -6,7 +6,7 @@ import tensorflow as tf
 import datetime
 
 """
-909-rank-dumn
+rank-dumn
 模型相关参数配置
 """
 
