@@ -1,4 +1,4 @@
-# DUMN:Deep User Match nNetwork for Click Through Rate Prediction
+# DUMN:Deep User Match Network for Click Through Rate Prediction
 
 花了几天时间复现了一下阿里的一篇论文：https://dl.acm.org/doi/abs/10.1145/3404835.3463078
 
